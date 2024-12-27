@@ -1,7 +1,7 @@
 {
   "main": {
     "AccessController": "0xA126e34eb1710b2946A23bb1f716b10250eCA4A8",
-    "ArbitrationPolicySP": "0x766020eD1c597A66ee40d7b9FfD7EFc61cdf7dbB",
+    "ArbitrationPolicySP": "0x766020eD1c597A66ee40d7b9FfD7EFc61cdf7dbBa",
     "CoreMetadataModule": "0x656b5F640a64BbbC15Ef6986eB3F6dbAE9060F37",
     "CoreMetadataViewModule": "0x82a30ed4Af5f490a96F16e836495EFDc8d70cAad",
     "DisputeModule": "0x367076bb7490AcD84Ad1DaFD7a5b5860A05729b2",
